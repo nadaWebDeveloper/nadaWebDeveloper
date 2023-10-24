@@ -2,9 +2,8 @@
 An aspiring full-stack (M.E.R.N.)developer, confident in technical skills and ready to tackle 
 challenges together with an agile teams.
 Having a curious mind for learning and trying out new things, as well as, finding creative solutions ®
-I am equipped with rational decision-making abilities, command of practical negotiation.
-I can work well with teams in a multicultural environment effectively as I am an admirable problem-solver.
-I have studied and I keep learning and practising JavaScript, TypeScript, React.js, and Node.js. With a passion for creating 
+I can work well with teams in a multicultural environment effectively as I am an admirable decision-making & problem-solver.
+I have studied and I keep learning and practising JavaScript, TypeScript, React.js, and Node.js. With a passion for creating. 
 © I have a degree in computer science 🏅
 
 
@@ -16,12 +15,12 @@ front-end and back-end development.I am actively learning and exploring technolo
 ###### Node.js, Express, React , and MongoDB to achieve this goal.
 
 
-### 🎀 I am eager to build on my existing skills and gain hands-on experience in the field of software development.
+###### 🎀 I am eager to build on my existing skills and gain hands-on experience in the field of software development.
 
 ## Specialties ⚙️ ⏳ 
-JavaScript | MongoDB | Express | React | Node.is | Redux | Git | GitHub | Next.js | HTML5 | CSS | Sacc | Web accessibility | Communication | Interpersonal Skills
+JavaScript | MongoDB | Express | React  | Node.is | Redux | Git | GitHub | Next.js | HTML5 | CSS | Sacc | Web accessibility | Communication | Interpersonal Skills
 
 ## My Projects 🎮✨
 
 ## Concat me 💌
-### I also love to network, let's connect!
+###### I also love to network, let's connect!
