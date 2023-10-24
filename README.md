@@ -13,10 +13,10 @@ In addition to my current skills, my goal is to become a professional full-stack
 developer. By expanding my knowledge  of front -end & back-end technologies,databases,
 and server-side programming, I aim to create end-to-end solutions that encompass both 
 front-end and back-end development.I am actively learning and exploring technologies such as: 
-# Node.js, Express, React , and MongoDB to achieve this goal.
+### Node.js, Express, React , and MongoDB to achieve this goal.
 
 
-# 🎀 I am eager to build on my existing skills and gain hands-on experience in the field of software development.
+### 🎀 I am eager to build on my existing skills and gain hands-on experience in the field of software development.
 
 ## Specialties ⚙️ ⏳ 
 JavaScript | MongoDB | Express | React | Node.is | Redux | Git | GitHub | Next.js | HTML5 | CSS | Sacc | Web accessibility | Communication | Interpersonal Skills
@@ -24,4 +24,4 @@ JavaScript | MongoDB | Express | React | Node.is | Redux | Git | GitHub | Next.j
 ## My Projects 🎮✨
 
 ## Concat me 💌
-# I also love to network, let's connect!
+### I also love to network, let's connect!
