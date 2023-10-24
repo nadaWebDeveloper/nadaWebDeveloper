@@ -18,9 +18,9 @@ front-end and back-end development.I am actively learning and exploring technolo
 ###### 🎀 I am eager to build on my existing skills and gain hands-on experience in the field of software development.
 
 ## Specialties ⚙️ ⏳ 
-JavaScript | MongoDB | Express | React  | Node.is | Redux | Git | GitHub | Next.js | HTML5 | CSS | Sacc | Web accessibility | Communication | Interpersonal Skills
+###### JavaScript | MongoDB | Express | React  | Node.is | Redux | Git | GitHub | Next.js | HTML5 | CSS | Sacc | Web accessibility | Communication | Interpersonal Skills
 
 ## My Projects 🎮✨
 
 ## Concat me 💌
-###### I also love to network, let's connect!
+I also love to network, let's connect!
