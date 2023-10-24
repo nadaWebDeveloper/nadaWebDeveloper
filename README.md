@@ -16,6 +16,7 @@ front-end and back-end development.I am actively learning and exploring technolo
 
 
 ###### 🎀 I am eager to build on my existing skills and gain hands-on experience in the field of software development.
+[![stats-card](https://kasroudra-stats-card.herokuapp.com/svg?user=KasRoudra)](https://github.com/KasRoudra/stats-card)
 
 ## Specialties ⚙️ ⏳ 
 ###### JavaScript | MongoDB | Express | React  | Node.is | Redux | Git | GitHub | Next.js | HTML5 | CSS | Sacc | Web accessibility | Communication | Interpersonal Skills
