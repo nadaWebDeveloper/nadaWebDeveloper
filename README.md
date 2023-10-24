@@ -1,10 +1,14 @@
 ### Nada Yahya 👩🏻‍💻 🇸🇦
-An aspiring full-stack (M.E.R.N.)developer, confident in technical skills and ready to tackle 
+full-stack(M.E.R.N.)developer
+
+![](https://media.licdn.com/dms/image/D4E16AQGG8gQ1KPRm1A/profile-displaybackgroundimage-shrink_350_1400/0/1698175506620?e=1703721600&v=beta&t=KEHXZDYqrBPnNoE0aeXjC0pdNUgKxriv4RXhb1AnTuM)
+
+An aspiring full-stack(M.E.R.N.)developer, confident in technical skills and ready to tackle 
 challenges together with an agile teams.
 Having a curious mind for learning and trying out new things, as well as, finding creative solutions ®
 I can work well with teams in a multicultural environment effectively as I am an admirable decision-making & problem-solver.
 I have studied and I keep learning and practising JavaScript, TypeScript, React.js, and Node.js. With a passion for creating. 
-© I have a degree in computer science 🏅
+I have a degree in computer science 🏅 © 
 
 
 ## my goals 🎯 🏆
@@ -19,7 +23,6 @@ front-end and back-end development.I am actively learning and exploring technolo
 
 ## Specialties ⚙️ ⏳ 
 ###### JavaScript | MongoDB | Express | React  | Node.is | Redux | Git | GitHub | Next.js | HTML5 | CSS | Sacc | Web accessibility | Communication | Interpersonal Skills
-[![My Skills](https://skillicons.dev/icons?i=python,rust,cpp,azure,vscode,html,css,js,qt&theme=dark#gh-dark-mode-only)]
 
 ## My Projects 🎮✨
 
