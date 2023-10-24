@@ -25,7 +25,7 @@ front-end and back-end development.I am actively learning and exploring technolo
 
 
 ## Specialties ⚙️ ⏳ 
-###### JavaScript | MongoDB | Express | React  | Node.is | Redux | Git | GitHub | Next.js | HTML5 | CSS | Sacc | SEO | Web accessibility | Communication | Interpersonal Skills
+###### JavaScript | Typescript | MongoDB | Express | React  | Node.is | Redux | Git | GitHub | Next.js | HTML5 | CSS | Sacc | SEO | Web accessibility | Communication | Interpersonal Skills
 
 
 ## My Projects 🎮✨
