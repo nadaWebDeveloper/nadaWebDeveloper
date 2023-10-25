@@ -1,12 +1,13 @@
 
-
-#  وَمَا يُلَقَّاهَا إِلَّا الَّذِينَ صَبَرُوا وَمَا يُلَقَّاهَا إِلَّا ذُو حَظٍّ عَظِيمٍ    
+<h1 text-align=center > وَمَا يُلَقَّاهَا إِلَّا الَّذِينَ صَبَرُوا وَمَا يُلَقَّاهَا إِلَّا ذُو حَظٍّ عَظِيمٍ  </h1>
+   
 
 ### Nada Yahya 👩🏻‍💻 🇸🇦
 full-stack(M.E.R.N.)developer
 
 
 ![Web developer](https://github.com/nadaWebDeveloper/nadaWebDeveloper/blob/main/photo_1445-04-09%2012.26.17.jpeg)
+
 
 An aspiring full-stack(M.E.R.N.)developer, confident in technical skills and ready to tackle 
 challenges together with an agile teams.
