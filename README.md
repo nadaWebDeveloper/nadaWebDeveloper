@@ -3,7 +3,7 @@
    
 
 ### Nada Yahya 👩🏻‍💻 🇸🇦
-full-stack(M.E.R.N.)developer
+Full-Stack(M.E.R.N.)Developer
 
 
 ![Web developer](https://github.com/nadaWebDeveloper/nadaWebDeveloper/blob/main/photo_1445-04-09%2012.26.17.jpeg)
