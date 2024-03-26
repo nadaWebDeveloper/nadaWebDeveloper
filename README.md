@@ -5,7 +5,7 @@
 
 $${\color{black} \large Nada \space \space Yahya  \space  👩‍💻}$$
 
-$${\color{black} \large Full-Stack(M.E.R.N.)Developer }$$
+$${\color{black} \large Full-Stack(M.E.R.N)Developer }$$
 
 ![Web developer](https://github.com/nadaWebDeveloper/nadaWebDeveloper/blob/main/photo_1445-04-09%2012.26.17.jpeg)
 
