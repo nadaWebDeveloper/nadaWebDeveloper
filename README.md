@@ -1,8 +1,6 @@
 
 <h1 text-align=center > وَمَا يُلَقَّاهَا إِلَّا الَّذِينَ صَبَرُوا وَمَا يُلَقَّاهَا إِلَّا ذُو حَظٍّ عَظِيمٍ  </h1>
 
-   
-
 $${\color{black} \large Nada \space \space Yahya  \space  👩‍💻}$$
 
 $${\color{black} \large Full-Stack(M.E.R.N)Developer }$$
@@ -19,10 +17,11 @@ $${\color{black} \large Full-Stack(M.E.R.N)Developer }$$
  ⚙️ ⏳
 ##### ⎬♛ JavaScript | Typescript |MongoDB | Express | React | Node.is | Redux | Git | GitHub | Next.js | Hooks |  HTML5 | CSS | SASS | SEO | Web accessibility | Communication | Interpersonal Skills | C# | ASP.NET | Java | MUI | OOP | SOLID Principles 
 
-- Phone: ‪+966 53 966 1055‬
-- Email: nada.yahya.almalki@gmail.com
-- GitHub: https://github.com/nadaWebDeveloper
-- LinkedIn: https://www.linkedin.com/in/nada-yahya-almalki
+> [!NOTE]
+> - Phone: ‪+966 53 966 1055‬
+> - Email: nada.yahya.almalki@gmail.com
+> - GitHub: https://github.com/nadaWebDeveloper
+> - LinkedIn: https://www.linkedin.com/in/nada-yahya-almalki
  
 
 
